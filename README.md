@@ -1,7 +1,3 @@
-Here's an updated README for your Tic Tac Toe project, including the GitHub link:
-
----
-
 # Tic Tac Toe Flutter App
 
 This project is a simple Tic Tac Toe game built using Flutter. The app allows two players to take turns marking spaces in a 3×3 grid, with the objective of placing three respective marks in a horizontal, vertical, or diagonal row to win the game.
@@ -187,4 +183,3 @@ This Tic Tac Toe app demonstrates the use of Flutter for building a simple inter
 
 ---
 
-You can include this README file in your project repository to provide clear instructions and an overview for users.
